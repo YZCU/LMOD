@@ -1,5 +1,5 @@
-# LMOD: A Large-scale and Multiclass Moving Object Detection Dataset for Satellite Videos
-This is the official website of the **LMOD** dataset.
+## LMOD: A Large-scale and Multiclass Moving Object Detection Dataset for Satellite Videos
+
 ## Getting the dataset
 :star: The dataset application is very simple and requires only the following two steps:  
 - [x] Please fill in this [application form](/Application%20form).
@@ -17,5 +17,8 @@ When we receive your application, we will reply as soon as possible. Thank you f
 - Satellite videos used in LMOD are collected from [JiLin-1](https://www.jl1mall.com/) satellite constellation and [ISS(International Space Station)](https://www.grss-ieee.org/resources/tutorials/data-fusion-tutorial-in-spanish/).
 ## Contact
 :mailbox: If you have any questions, please contact `rs_devotee@163.com`.
+
+For more details check out [Here](https://github.com/RS-Devotee)
+
 ## Tips :sun_with_face:  
 If you want to use **multi-object detection and tracking or single-object tracking dataset** labeled with the **OBB (Oriented Bounding Box)** method which has orientation information, you can try to use the [OODT dataset](https://github.com/RS-Devotee/OODT) that we have published before.

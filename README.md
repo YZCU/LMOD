@@ -18,7 +18,7 @@ When we receive your application, we will reply as soon as possible. Thank you f
 ## Contact
 :mailbox: If you have any questions, please contact `rs_devotee@163.com`.
 
-For more details check out [Here](https://github.com/RS-Devotee)
+For more details check out [Here](https://github.com/RS-Devotee).
 
 ## Tips :sun_with_face:  
 If you want to use **multi-object detection and tracking or single-object tracking dataset** labeled with the **OBB (Oriented Bounding Box)** method which has orientation information, you can try to use the [OODT dataset](https://github.com/RS-Devotee/OODT) that we have published before.

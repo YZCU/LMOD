@@ -1,10 +1,13 @@
-## LMOD: a large-scale and multiclass moving object setection sataset for aatellite videos
-
+## LMOD: A large-scale and multiclass moving object detection dataset for satellite videos
+--------------------------------------------------------------------------------------
 ## 480,332 labels ~ Total.
 ## **459,713** Vehicles, 
 ## **9,390** Aircrafts, 
 ## **10,536** Ships, 
 ## **693** Trains.
+Our work is expected to contribute to the visual tracking community.
+
+--------------------------------------------------------------------------------------
 
 
 ## Getting the dataset
